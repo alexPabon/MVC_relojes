@@ -7,9 +7,9 @@
 	</head>
 	<body>
 		<h1>Portada de la aplicación</h1>
-<!-- 		<ul> -->
-<!-- 			<li><a href="/">Inicio</a></li> -->
-<!-- 		</ul> -->
+		<ul>
+			<li><a href="/">Inicio</a></li>
+		</ul>
 		<?php 		
 			Template::menu();
 		?>
