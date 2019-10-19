@@ -1,0 +1,8 @@
+body>div{
+	max-width: 1080px;
+	width: 100%;
+	padding: 10px 20px;
+	margin: 0 auto;
+	border:solid 1px gray;
+	border-radius: 15px;
+}
