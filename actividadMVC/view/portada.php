@@ -6,10 +6,7 @@
 		<link rel="stylesheet" type="text/css" href="/css/ampliada.css">
 	</head>
 	<body>
-		<h1>Portada de la aplicación</h1>
-		<ul>
-			<li><a href="/">Inicio</a></li>
-		</ul>
+		<h1>Portada de la aplicación</h1>		
 		<?php 		
 			Template::menu();
 		?>
